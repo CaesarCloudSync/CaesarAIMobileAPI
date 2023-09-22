@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for caesarmobiletranslateapis on 2023-09-09T00:29:27+01:00
+# fly.toml app configuration file generated for caesarmobtranslate on 2023-09-09T00:48:04+01:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = "caesarmobiletranslateapis"
+app = "caesarmobtranslate"
 primary_region = "ams"
 
 [build]
